@@ -1,6 +1,7 @@
 # AWS Cloud Resume Challenge
 
-Welcome to my Cloud Resume Challenge project! This project demonstrates my ability to design, build, secure, and deploy a cloud-native serverless web application using AWS services.
+Welcome to my Cloud Resume Challenge project! This project demonstrates my ability to design, build, secure, and deploy a cloud-native serverless web application using AWS services and built my site https://george-gian.com.
+
 Motivation: I undertook this project to deepen my understanding of AWS and put my knowledge into practice. As someone preparing for AWS certification, I wanted hands-on experience with real services. Building my resume in the cloud was the perfect way to learn by doing.  The challenge pushed me to solve problems independently and taught me how various AWS services integrate. My goal was to create a professional portfolio site that also proves my cloud skills to potential employers, and this project delivered exactly that.
 
 ## 🛠 Services Used
